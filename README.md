@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ramisa Farha
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Data Analytics
+- 👀 I’m interested in Data Science and Machine learning
+- 🌱 I’m currently learning Data Analytics, Data segmentation and Data visualization
 <!--- - 💞️ I’m looking to collaborate on -->
 <!--- - 📫 How to reach me --->
 
