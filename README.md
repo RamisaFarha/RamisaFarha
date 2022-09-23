@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Ramisa Farha
-- 👀 I’m interested in Data Science and Machine learning
+- 👀 I’m interested in Data Science, Machine Learning and Medical Image Analysis
 - 🌱 I’m currently learning Data Analytics, Data segmentation and Data visualization
+- 📫 Email: ramisa.maahi@gmail.com
 <!--- - 💞️ I’m looking to collaborate on -->
-<!--- - 📫 How to reach me --->
+
 
 <!---
 RamisaFarha/RamisaFarha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
