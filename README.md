@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ramisa Farha
-- 👀 I’m interested in Data Science, Machine Learning and Medical Image Analysis
-- 🌱 I’m currently learning Data Analytics, Data segmentation and Data visualization
+- 👀 I’m interested in Data Science, Machine Learning, Deep Learning, Artificial Intelligence, Data Security and Privacy and Medical Image Analysis
+- 🌱 I’m currently learning Data Analytics, Data segmentation, Data visualization, and Machine Learning Model-based Analysis Algorithms 
 - 📫 Email: ramisa.maahi@gmail.com
 <!--- - 💞️ I’m looking to collaborate on -->
 
